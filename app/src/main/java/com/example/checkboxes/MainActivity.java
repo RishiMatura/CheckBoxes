@@ -40,9 +40,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void enableIntent(){
-        String name = editText1.getText().toString();
+        String name = editText.getText().toString();
         Intent intent = new Intent(this, GetNameActivity.class);
-        intent.putExtra("Name", name);
         startActivity(intent);
     }
     // Method to handle radio button click
