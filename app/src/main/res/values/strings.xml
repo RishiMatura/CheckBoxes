@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBoxes</string>
+    <string name="learn_jetpack_compose">Learn Jetpack Compose</string>
+    <string name="learn_kotlin">Learn Kotlin</string>
+    <string name="implement_materials_ui">Implement Materials UI</string>
+    <string name="radio_buttons_and_checkboxes">Radio Buttons and CheckBoxes</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
