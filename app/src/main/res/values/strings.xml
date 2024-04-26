@@ -6,4 +6,6 @@
     <string name="radio_buttons_and_checkboxes">Radio Buttons and CheckBoxes</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="work_done">Work Done</string>
 </resources>
